@@ -9,5 +9,7 @@ public class Main {
 
         // 초기값 설정
         LinkedList<Integer> list2 = new LinkedList<Integer>(Arrays.asList(1,2));
+
+
     }
 }
