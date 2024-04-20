@@ -13,6 +13,16 @@ public class Main {
         // 가장 앞에 데이터 추가
         list2.addFirst(3);
 
+        // 가장 뒤에 데이터 추가
+        list2.addLast(5);
+
+        // index 1에 중간 위치에 데이터 10 추가
+        list2.add(1,10);
+
+        //첫 번째 값 제거
+        list2.removeFirst();
+
+
 
     }
 }
